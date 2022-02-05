@@ -4,7 +4,7 @@
 
 ## Final Product Showcase:
 1. YouTube link full video: https://youtu.be/WpMmNps2_uQ
-2. YouTube link for Registration and Login: 
+2. YouTube link for Registration and Login: https://youtu.be/PqwwdydQoxo
 
 **Tech Stacks**:
 - Frontend:
