@@ -1,3 +1,5 @@
+// we should remove HelloServlet since I am using the new controller to handle the request.
+
 package com.minitwitch.minitwitch;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
