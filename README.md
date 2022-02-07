@@ -19,3 +19,4 @@
 ## Steps in history: 
 1. set up - 02042022
 2. prototype deployed on AWS, showcases recorded - 02052022
+3. game controller implementation: 02062022
